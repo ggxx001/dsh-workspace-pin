@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Workspace Pin",
+    "description": "Adds a pin button to every workspace row in the sidebar: pinned workspaces move to the top and the order is remembered on this machine."
+  }
+}
